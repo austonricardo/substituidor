@@ -12,3 +12,4 @@ No código existem algumas variações na qual é possível excluir linhas inici
 ![Tela Termos](https://github.com/austonricardo/substituidor/blob/master/Tela02.png "tela de termos")
 
 ----
+Para utilizar obtenha o arquivo .exe ; .exe.config na pasta bin/Release/
