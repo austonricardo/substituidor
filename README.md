@@ -1,4 +1,4 @@
-# substituidor
+# Substituidor
 Copia um estrutura de pasta e arquivos substituindo termos presentes no conteúdo e no filepath. 
 Excelente para criar novos projetos baseados em algum existente.
 
